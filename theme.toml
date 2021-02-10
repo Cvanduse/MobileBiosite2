@@ -11,7 +11,7 @@ features = ["blog", "seo", "responsive", "mobile", "disqus", "fontawesome", "ana
 min_version = "0.53.0"
 
 [author]
-  name = "Test"
+  name = "Test Van Dusen"
   homepage = "https://alexbilz.com"
 
 # If porting an existing theme
